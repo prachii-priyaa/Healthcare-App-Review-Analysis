@@ -24,10 +24,10 @@ Topic modeling is performed using Latent Dirichlet Allocation (LDA). We apply TF
 ## Requirements
 To run this project, you need to have the following dependencies installed:
 
-scikit-learn
-nltk
-pandas
-numpy
+- scikit-learn
+- nltk
+- pandas
+- numpy
 
 ## Acknowledgments
 The project utilizes various Python libraries such as scikit-learn, nltk, pandas, and numpy for data analysis and visualization.
