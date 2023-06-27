@@ -1,5 +1,5 @@
 # Healthcare-App-Review-Analysis
-This project focuses on analyzing healthcare app reviews (Practo, Apollo, Tata 1mg, Mfine and Lybrate) to gain insights into user sentiment, user profiling, trend analysis, comparative analysis, user satisfaction, and topic modeling. The goal is to extract meaningful information from a large dataset of healthcare app reviews and provide valuable insights for app developers, marketers, and stakeholders.
+This project focuses on analyzing healthcare app reviews **(Practo, Apollo, Tata 1mg, Mfine and Lybrate)** to gain insights into user sentiment, user profiling, trend analysis, comparative analysis, user satisfaction, and topic modeling. The goal is to extract meaningful information from a large dataset of healthcare app reviews and provide valuable insights for app developers, marketers, and stakeholders.
 
 ## Project Overview
 In this project, we start by collecting healthcare app reviews from various sources and combine them into a single dataset. The dataset includes information such as the healthcare app name, username, review content, rating, and date.
